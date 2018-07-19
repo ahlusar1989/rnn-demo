@@ -5,4 +5,4 @@ Trained with ~10k Conan O’Brien monologue jokes (1.6M characters). Trained usi
 TensorFlow. Modified to work in the browser via ML5.js and deeplearn.js.
 Interface built with React.
 
-Model repo: https://github.com/ahlusar1989/neural-jokes-model
+Model repo: https://github.com/ahlusar1989/rnn-character-encoding
